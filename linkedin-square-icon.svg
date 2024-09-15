@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 512 509.6">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+
+      .cls-1, .cls-2 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #ed1f78;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1" data-name="Layer 1" image-rendering="optimizeQuality" shape-rendering="geometricPrecision" text-rendering="geometricPrecision">
+    <rect class="cls-2" width="512" height="509.6" rx="115.6" ry="115.6"/>
+    <path class="cls-1" d="M205,197.5h64.7v33.2h.9c9-16.2,31-33.2,63.9-33.2,68.3,0,80.9,42.5,80.9,97.8v116.9h-67.5v-104.1c0-23.8-.5-54.4-35.1-54.4s-40.5,25.9-40.5,52.7v105.9h-67.4v-214.7ZM166.7,132.4c0,19.4-15.7,35.1-35.1,35.1s-35.1-15.7-35.1-35.1,15.7-35.1,35.1-35.1,35.1,15.7,35.1,35.1ZM96.6,197.5h70.2v214.7h-70.2s0-214.7,0-214.7Z"/>
+  </g>
+</svg>
